@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/kwonmoon/single-price-grid-component-master)
-- Live Site URL: [Netlify](https://incomparable-dasik-06053a.netlify.app)
+- Live Site URL: [Netlify](https://iridescent-tanuki-a85f57.netlify.app/)
 
 ## My process
 
